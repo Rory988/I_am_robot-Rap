@@ -10,4 +10,4 @@
 
 ## 当前状态
 
-- Day 1 记录已入库（在 `408/ai-short-video/day1.md`）
+- Day 1 记录已入库
